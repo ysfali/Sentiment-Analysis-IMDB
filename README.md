@@ -15,6 +15,14 @@
 #### Sequence Length Distribution
 ![Sequence Length Distribution](https://github.com/ysfali/Sentiment-Analysis-IMDB/blob/main/seqlen_plot.png)
 
+#### Dataset Distribution
+
+| Dataset | Samples |
+| :--- | :---: |
+| Training Set | 40144 |
+| Validation Set | 4464 |
+| Test Set | 4960 |
+
 ## Model Performance
   
   Total Epochs: 3
@@ -26,3 +34,6 @@
 | Training Set | 0.9340 | 0.1696 |
 | Validation Set | 0.9341 | 0.1629 |
 | Test Set | 0.9337 | 0.1682 |
+
+
+[Kaggle Notebook](https://www.kaggle.com/mysfali/bert-transfer-learning-for-imdb-50k-movie-review/notebook)
