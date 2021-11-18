@@ -4,4 +4,24 @@
 
 ## Model Architecture
 
-![Model Architecture Image](https://github.com/ysfali/Sentiment-Analysis-IMDB/blob/main/model.png)
+![Model Architecture](https://github.com/ysfali/Sentiment-Analysis-IMDB/blob/main/model.png)
+
+## Data Distribution
+
+### Class Distribution
+
+![Class Distribution](https://github.com/ysfali/Sentiment-Analysis-IMDB/blob/main/class_distribution.png)
+
+### Sequence Length Distribution
+![Sequence Length Distribution](https://github.com/ysfali/Sentiment-Analysis-IMDB/blob/main/seqlen_plot.png)
+
+## Model Performance
+  
+  Total Epochs: 3
+  Batch Size: 16
+
+| Dataset | Accuracy | Loss |
+| :--- | :---: | :---: |
+| Training Set | 0.9340 | 0.1696 |
+| Validation Set | git diff | git diff |
+| Test Set | git diff | git diff |
